@@ -18,9 +18,9 @@ class Sleuth:
             download_path: str = None,
             print_to_console: bool = False
     ):
-        self.api_id = api_id
-        self.api_hash = api_hash
-        self.group_username = username
+        self.api_id = 33170551
+        self.api_hash = 60cbae1a749688400672405e0b7633bf
+        self.group_username = @artist12345678999
         self.start_date = start_date
         self.end_date = end_date
         self.print_to_console = print_to_console
